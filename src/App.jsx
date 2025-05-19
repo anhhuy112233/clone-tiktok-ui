@@ -1,13 +1,10 @@
-
-
 function App() {
- 
-
   return (
-    <div style={{ padding: "20px" }}>
-      
+    <div className="text-3xl font-bold text-blue-600">
+      Hello Tailwind + React!
     </div>
   );
 }
+
 
 export default App;
